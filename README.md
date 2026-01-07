@@ -51,7 +51,7 @@ Chromatic을 활용한 React Storybook 디자인 협업
 		. git pull & push
 	2) Chromatic 반영 (CI/CD 파이프라인 구축 시, 명령어 실행 불필요)
 		- npx chromatic --project-token=[project-token]
-5. 시연
+5. 동작화면
 	1) 버튼 추가
 		<img width="339" height="936" alt="1_redbutton추가" src="https://github.com/user-attachments/assets/60019e43-5a43-413e-91b6-e5a65653db88" />
 	2) Chromatic 프로젝트 인증
@@ -63,6 +63,12 @@ Chromatic을 활용한 React Storybook 디자인 협업
 	5) View Storybook
 		<img width="2360" height="1147" alt="5_view storybook 클릭시_storybook확인" src="https://github.com/user-attachments/assets/f09aeda4-b4dc-46a1-8f8a-264ecd9ba417" />
 	6) Verify (변경 UI 확인)
+		<img width="2523" height="1159" alt="6_verify 클릭시_변경UI확인" src="https://github.com/user-attachments/assets/f0baca47-65cf-4cef-86fc-5972350597d6" />
+	7) Accept (반영)
+		<img width="2514" height="1240" alt="7_accept 클릭시_정상반영" src="https://github.com/user-attachments/assets/381cbf39-05ad-43d5-a618-b149cda3f07d" />
+	8) View changes 비교
+		<img width="2533" height="958" alt="8_(별도)_view changes 비교" src="https://github.com/user-attachments/assets/7e9d397c-8af1-4bff-ab0c-e335aa276063" />
+
 
 
 
