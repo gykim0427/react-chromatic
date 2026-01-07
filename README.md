@@ -54,19 +54,19 @@ Chromatic을 활용한 React Storybook 디자인 협업
 5. 동작화면
 	1) 버튼 추가
 		<img width="339" height="936" alt="1_redbutton추가" src="https://github.com/user-attachments/assets/60019e43-5a43-413e-91b6-e5a65653db88" />
-	3) Chromatic 프로젝트 인증
+	2) Chromatic 프로젝트 인증
 		<img width="839" height="689" alt="2_chromatic 인증" src="https://github.com/user-attachments/assets/6aa486a8-61ec-412c-8145-0286741cf9d1" />
-	4) Chromatic 사이트 접속
+	3) Chromatic 사이트 접속
 		<img width="2537" height="877" alt="3_Chromatic 사이트 접속" src="https://github.com/user-attachments/assets/4f90b058-7d0d-4701-825a-c5e1421e59be" />
-	5) 빌드 확인
+	4) 빌드 확인
 		<img width="2320" height="1289" alt="4_Chromatic 반영_빌드페이지" src="https://github.com/user-attachments/assets/1975cdab-ef0d-44e1-b9ec-2eab27bd5f3a" />
-	6) View Storybook
+	5) View Storybook
 		<img width="2360" height="1147" alt="5_view storybook 클릭시_storybook확인" src="https://github.com/user-attachments/assets/f09aeda4-b4dc-46a1-8f8a-264ecd9ba417" />
-	7) Verify (변경 UI 확인)
+	6) Verify (변경 UI 확인)
 		<img width="2523" height="1159" alt="6_verify 클릭시_변경UI확인" src="https://github.com/user-attachments/assets/f0baca47-65cf-4cef-86fc-5972350597d6" />
-	8) Accept (반영)
+	7) Accept (반영)
 		<img width="2514" height="1240" alt="7_accept 클릭시_정상반영" src="https://github.com/user-attachments/assets/381cbf39-05ad-43d5-a618-b149cda3f07d" />
-	9) View changes 비교
+	8) View changes 비교
 		<img width="2533" height="958" alt="8_(별도)_view changes 비교" src="https://github.com/user-attachments/assets/7e9d397c-8af1-4bff-ab0c-e335aa276063" />
 
 
